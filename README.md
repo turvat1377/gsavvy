@@ -1,4 +1,0 @@
-gsavvy
-======
-
-A test kernel
